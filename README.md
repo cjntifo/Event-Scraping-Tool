@@ -7,6 +7,9 @@ A tool made in Python to automate the retrival of events from Meetup and OutSavv
 - [Meetup API](https://secure.meetup.com/meetup_api)
 - [OutSavvy API](https://partners.outsavvy.com/developer/quickstart)
 
+## Example Outputs
+<img src="screenshot_1.png" />
+
 ## Dependancies
 Uses Meetup API v2, and OutSavvy API v1, both updated as of 19th February 2019.
 
